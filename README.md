@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey 👋 I'm Sarthak
 
-<!--
-**Sarthakdakle/Sarthakdakle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer | Java • Firebase • REST APIs
 
-Here are some ideas to get you started:
+📍 Based in Maharashtra, India  
+🔭 Building mobile apps and Android solutions  
+📫 Reach me at daklesarthak240@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+Java, Android SDK, Firebase, RESTful APIs, XML, Material Design
+
+## 🔗 Projects
+- **Student Attendance System** — Android app with GPS validation & Firebase  
+- **Task Management System** — Role-based real-time task tracker
+
+## 🔭 Connect
+LinkedIn: linkedin.com/in/sarthak-dakle  
+GitHub: github.com/Sarthakdakle
