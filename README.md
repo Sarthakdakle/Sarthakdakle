@@ -7,7 +7,7 @@ Android Developer | Java • Firebase • REST APIs
 📫 Reach me at daklesarthak240@gmail.com
 
 ## 🔧 Skills
-Java, Android SDK, Firebase, RESTful APIs, XML, Material Design
+Java, Android SDK, Firebase, XML, Material Design
 
 ## 🔭 Connect
 LinkedIn: linkedin.com/in/sarthak-dakle  
