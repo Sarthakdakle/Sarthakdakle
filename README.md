@@ -1,13 +1,13 @@
 # Hey 👋 I'm Sarthak
 
-Android Developer | Java • Firebase • REST APIs
+Cybersecurity Analyst
 
 📍 Based in Maharashtra, India  
-🔭 Building mobile apps and Android solutions  
+🔭 Security and Networking enthusiast 
 📫 Reach me at daklesarthak240@gmail.com
 
 ## 🔧 Skills
-Java, Android SDK, Firebase, XML, Material Design
+Wazuh, SIEM, Wireshark, Nmap, network scanning and service discovery, 
 
 ## 🔭 Connect
 LinkedIn: linkedin.com/in/sarthak-dakle  
