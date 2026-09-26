@@ -3,7 +3,7 @@
 Cybersecurity Analyst
 
 📍 Based in Maharashtra, India  
-🔭 Security and Networking enthusiast 
+🔭 Security and Networking enthusiast
 📫 Reach me at daklesarthak240@gmail.com
 
 ## 🔧 Skills
