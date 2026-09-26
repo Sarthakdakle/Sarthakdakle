@@ -10,4 +10,4 @@ Cybersecurity Analyst | Cybersecurity Beginner
 Wazuh, SIEM, Wireshark, Nmap, network scanning and service discovery, 
 
 ## 🔭 Connect
-LinkedIn: linkedin.com/in/sarthak-dakle  
+LinkedIn: www.linkedin.com/in/sarthak-dakle
